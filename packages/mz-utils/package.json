@@ -1,0 +1,16 @@
+{
+  "name": "@mz/utils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib",
+  "module": "es",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/runtime": "^7.11.0"
+  }
+}

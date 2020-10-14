@@ -1,0 +1,8 @@
+/build/
+/config/
+/dist/
+/lib/
+
+dist
+lib
+es
